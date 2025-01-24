@@ -1,0 +1,3 @@
+node_modules
+
+# se baixar o projeto em outra máquina basta enviar "npm install" no terminal para baixar a pasta node_modules, baseado no package.json
