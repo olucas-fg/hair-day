@@ -51,7 +51,3 @@ A salon appointment management tool designed for hairstylists to organize and sc
    npm run dev
    ```
 7. open the link in the browser of your choice on the port indicated in the application terminal
-
-## Live Demo 🌍
-
-Check out the live version of the project here: [Hair Day Demo](https://olucas-fg.github.io/hair-day/)
